@@ -35,8 +35,3 @@ The goal of this project is to:
 ## Dataset
 - `sample_-_superstore.csv`
 
-## Future Improvements
-- move credentials to environment variables
-- add data validation checks
-- separate extract / transform / load steps into functions
-- add documentation and schema design
