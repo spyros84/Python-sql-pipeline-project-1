@@ -2,7 +2,6 @@
 
 import pandas as pd
 import numpy as np
-import sqlite3
 from sqlalchemy import create_engine
 from urllib.parse import quote_plus
 df = pd.read_csv('sample_-_superstore.csv')
